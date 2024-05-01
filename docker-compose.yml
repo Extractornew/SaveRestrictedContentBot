@@ -6,9 +6,9 @@ services:
     build: .
     command: bash bash.sh
     environment:
-      API_ID: 28296652
-      API_HASH: 42a865cb57e1c1bf9445c5037bf05e51
-      BOT_TOKEN: 7029200632:AAEWNn2QdX2RSdfyBgKVA61kY5epLCiW1Dw 
-      SESSION: AQGvxcwAPLrA7vilWEE3MzfBeqKVR1uWmIVCqCNKWUllXCf73E_uS-_TSw3rKfUqX9Rfi4ExMpbLhWW-lsjWzFlkveymOqmar1ASC-QPa6piP0CZ_lgUPpjyzTYa1z7lU9DzokrZ8V06UDCxspMyJQ1sjE-Pemt1Fgg41kTKuOQDTXMsdKOCid5DcNtgh0J3sVl2o_vZmNZd2kPNt6bYpqJd1QvxF1XgTQnbPIoPDicI-JjR-pd40W6FWAJORZ9juFoNnB3Q-yB716AlXb4-GM4oi9kmCKqiN5cNbeVcOUm4xrGycXtBL3nu3ehuHq6Tffnt7LwuOc1G1KY5Rxi28yNy3gWWyAAAAAGpdNdIAA
-      AUTH: 7137974088
-      FORCESUB: https://t.me/sjsisoemhs
+      API_ID: "28296652",
+      API_HASH: "42a865cb57e1c1bf9445c5037bf05e51",
+      BOT_TOKEN: "7029200632:AAEWNn2QdX2RSdfyBgKVA61kY5epLCiW1Dw", 
+      SESSION: "AQGvxcwAPLrA7vilWEE3MzfBeqKVR1uWmIVCqCNKWUllXCf73E_uS-_TSw3rKfUqX9Rfi4ExMpbLhWW-lsjWzFlkveymOqmar1ASC-QPa6piP0CZ_lgUPpjyzTYa1z7lU9DzokrZ8V06UDCxspMyJQ1sjE-Pemt1Fgg41kTKuOQDTXMsdKOCid5DcNtgh0J3sVl2o_vZmNZd2kPNt6bYpqJd1QvxF1XgTQnbPIoPDicI-JjR-pd40W6FWAJORZ9juFoNnB3Q-yB716AlXb4-GM4oi9kmCKqiN5cNbeVcOUm4xrGycXtBL3nu3ehuHq6Tffnt7LwuOc1G1KY5Rxi28yNy3gWWyAAAAAGpdNdIAA",
+      AUTH: "7137974088",
+      FORCESUB: "https://t.me/sjsisoemhs",
